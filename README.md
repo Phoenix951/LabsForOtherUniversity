@@ -1,4 +1,4 @@
 # LabsForBSU
-Some labs
+Some labs by Python
 
-files test 1-4 need for Slov_mnosh_02.py
+files test1-4.txt need for Slov_mnosh_02.py
