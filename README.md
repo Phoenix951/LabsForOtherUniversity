@@ -1,4 +1,4 @@
-# LabsForBSU
+# LabsForOtherUniversity
 Some labs by Python
 
 Files:
